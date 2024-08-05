@@ -1,2 +1,2 @@
-simple front-end of a website about coffee
+simple front-end of a website about coffee,
 pure html and css
